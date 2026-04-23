@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grindr Tag</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <h1 class="brand-logo" aria-label="Grindr Tag">
+          <span class="brand-logo-main">Grindr</span>
+          <span class="brand-logo-box">Tag</span>
+        </h1>
+        <div class="top-actions">
+          <button class="language-toggle" type="button" id="languageToggle" aria-label="切换语言">
+            <span id="languageLabel">EN</span>
+          </button>
+        </div>
+      </header>
+
+      <nav class="category-tabs" id="categoryTabs" aria-label="标签分类"></nav>
+
+      <main>
+        <div class="search-wrap">
+          <input
+            class="search-input"
+            id="searchInput"
+            type="search"
+            autocomplete="off"
+            data-i18n-placeholder="searchPlaceholder"
+            placeholder="搜索 tag 或 description"
+          />
+        </div>
+
+        <section class="tag-grid" id="tagGrid" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <div class="modal-layer" id="modalLayer" aria-hidden="true">
+      <button class="modal-backdrop" id="modalBackdrop" type="button" aria-label="关闭"></button>
+      <article class="detail-card" id="detailCard" role="dialog" aria-modal="true" aria-labelledby="detailTitle" tabindex="-1">
+        <button class="close-button" id="closeButton" type="button" aria-label="关闭">×</button>
+        <div class="detail-hero" id="detailHero">
+          <span class="detail-category" id="detailCategory"></span>
+          <h2 id="detailTitle"></h2>
+        </div>
+        <div class="detail-content">
+          <p id="detailDescription"></p>
+        </div>
+      </article>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

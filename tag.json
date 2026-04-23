@@ -655,6 +655,10 @@
       "description": "Short for bisexual. Has an attraction to more than one gender."
     },
     {
+      "tag": "Bottom",
+      "description": "Prefers being the receptive partner during sex."
+    },
+    {
       "tag": "Chub",
       "description": "Considers themselves to be chubby."
     },
@@ -665,6 +669,10 @@
     {
       "tag": "College",
       "description": "Currently attending college."
+    },
+    {
+      "tag": "Committed",
+      "description": "In a stable relationship with a sense of commitment."
     },
     {
       "tag": "Couple",
@@ -693,6 +701,10 @@
     {
       "tag": "Drugfree",
       "description": "Doesn't use drugs."
+    },
+    {
+      "tag": "Exclusive",
+      "description": "Wants or is in an exclusive relationship, where intimacy or sex is limited to each other."
     },
     {
       "tag": "Femme",
@@ -747,8 +759,20 @@
       "description": "Interested in someone who doesn't smoke cigarettes."
     },
     {
+      "tag": "NPNC",
+      "description": "Short for “no pic, no chat,” meaning they usually won't chat if the other person has no profile photo or pictures."
+    },
+    {
+      "tag": "Open-relationship",
+      "description": "Is in or open to an open relationship, where partners knowingly agree that intimacy or sex can happen outside the relationship."
+    },
+    {
       "tag": "Otter",
       "description": "A slim, hairy person."
+    },
+    {
+      "tag": "Partnered",
+      "description": "Already has a partner or steady relationship."
     },
     {
       "tag": "Pic4pic",
@@ -757,6 +781,14 @@
     {
       "tag": "Poz",
       "description": "Is HIV positive."
+    },
+    {
+      "tag": "Queer",
+      "description": "Identifies as queer, or uses a broader, less fixed label for their sexuality and/or gender identity."
+    },
+    {
+      "tag": "Side",
+      "description": "Usually does not prefer anal sex and instead enjoys other forms of intimacy, such as kissing, oral, or mutual masturbation."
     },
     {
       "tag": "Sissy",
@@ -775,6 +807,10 @@
       "description": "A trans person who is primarily or exclusively seeking connections with other trans people."
     },
     {
+      "tag": "Top",
+      "description": "Prefers being the insertive partner during sex."
+    },
+    {
       "tag": "Trans",
       "description": "Short for “transgender,” meaning their gender identity does not match the sex they were assigned at birth. Does not specify any expectations around steps they have taken physically such as reassignment or replacement hormone therapy."
     },
@@ -785,6 +821,18 @@
     {
       "tag": "Twunk",
       "description": "Has youthful, boyish facial qualities (usually around 18-25) and the physique of a hunk."
+    },
+    {
+      "tag": "U=U",
+      "description": "Short for “undetectable = untransmittable,” meaning a person living with HIV whose viral load remains undetectable through consistent treatment does not sexually transmit HIV."
+    },
+    {
+      "tag": "Vers",
+      "description": "Short for “versatile,” meaning they can be both a top and a bottom."
+    },
+    {
+      "tag": "Well-educated",
+      "description": "Well-educated, and often also values learning and thoughtful conversation."
     }
   ]
 }

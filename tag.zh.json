@@ -655,6 +655,10 @@
       "description": "bisexual（双性恋）的缩写。对不止一种性别有吸引。"
     },
     {
+      "tag": "Bottom",
+      "description": "在性行为中更偏好作为被插入的一方。"
+    },
+    {
       "tag": "Chub",
       "description": "认为自己有些胖乎乎。"
     },
@@ -665,6 +669,10 @@
     {
       "tag": "College",
       "description": "目前正在上大学。"
+    },
+    {
+      "tag": "Committed",
+      "description": "处于一段稳定且带有承诺的关系中。"
     },
     {
       "tag": "Couple",
@@ -693,6 +701,10 @@
     {
       "tag": "Drugfree",
       "description": "不使用毒品。"
+    },
+    {
+      "tag": "Exclusive",
+      "description": "希望或正在处于一段排他的关系中，即只与彼此发展亲密或性关系。"
     },
     {
       "tag": "Femme",
@@ -747,8 +759,20 @@
       "description": "对不抽烟的人感兴趣。"
     },
     {
+      "tag": "NPNC",
+      "description": "“no pic, no chat”（没照片就不聊）的缩写，表示如果对方没有头像或照片，就不想继续聊天。"
+    },
+    {
+      "tag": "Open-relationship",
+      "description": "处于或接受开放式关系，即伴侣之间彼此知情并同意在关系之外与他人发展亲密或性关系。"
+    },
+    {
       "tag": "Otter",
       "description": "身材纤细、多毛的人。"
+    },
+    {
+      "tag": "Partnered",
+      "description": "已经有伴侣或固定关系对象。"
     },
     {
       "tag": "Pic4pic",
@@ -757,6 +781,14 @@
     {
       "tag": "Poz",
       "description": "HIV 阳性。"
+    },
+    {
+      "tag": "Queer",
+      "description": "认同为酷儿，或用更开放、非单一分类的方式描述自己的性倾向和/或性别认同。"
+    },
+    {
+      "tag": "Side",
+      "description": "在性方面通常不偏好肛交，更喜欢接吻、口交、互相自慰等其他亲密方式。"
     },
     {
       "tag": "Sissy",
@@ -775,6 +807,10 @@
       "description": "指主要或只寻求与其他跨性别者建立联系的跨性别者。"
     },
     {
+      "tag": "Top",
+      "description": "在性行为中更偏好作为插入的一方。"
+    },
+    {
       "tag": "Trans",
       "description": "“transgender”（跨性别）的缩写，指其性别认同与出生时被指定的性别不一致。不说明其在身体层面采取过哪些步骤，例如性别重置手术或激素替代治疗。"
     },
@@ -785,6 +821,18 @@
     {
       "tag": "Twunk",
       "description": "具有年轻、男孩气质的面部特征，通常约 18 至 25 岁，同时拥有健壮男性的体格。"
+    },
+    {
+      "tag": "U=U",
+      "description": "“undetectable = untransmittable”（不可检测 = 不可传播）的缩写，表示 HIV 感染者在规律治疗下若病毒载量持续不可检测，经性行为不会传播 HIV。"
+    },
+    {
+      "tag": "Vers",
+      "description": "“versatile”的缩写，表示既可以是 top，也可以是 bottom。"
+    },
+    {
+      "tag": "Well-educated",
+      "description": "受过良好教育，通常也表示重视知识交流与学习。"
     }
   ]
 }
